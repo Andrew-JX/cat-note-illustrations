@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+# Local generated outputs
+assets/*-illustrations/
+generated_images/
+*.tmp
+
+# Editor
+.idea/
+.vscode/
+
