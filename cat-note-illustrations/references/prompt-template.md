@@ -9,7 +9,7 @@ Core visual style:
 Journal sticker style mixed with modern simple cute comic style. Clean white or near-white background. Medium-thick uneven hand-drawn black ink outline, closed sticker-like cutout shapes, rounded line ends, slightly damp pen feel. Low-saturation warm flat colors with very subtle recycled-paper or colored-pencil grain inside the colored areas. Minimal shadows only in ears, tongue, or fur patch edges. No watercolor bleeding, no pixel art, no 3D, no glossy vector mascot, no product sketch, no PPT infographic, no catalog/specification sheet.
 
 Default recurring character, mandatory:
-Use Specimen 0 as the main cat, not a generic cat. Specimen 0 is a short-haired bicolor cow-pattern cat: warm white body, irregular dark brown/black-gray patches on the crown/ears, one dark patch on the back, mostly dark tail. Very large yellow irises with narrow vertical black slit pupils are the soul of the character. The eyes feel blank, hyper-aware, deadpan, and funny, like the cat has emptied its brain but sees everything. Small pale pink nose, hidden mouth unless licking paw, optional tiny pink tongue, short straight black whiskers. Triangular ears with soft pink inner ears. Body is loose and slightly awkward, not a round chibi mascot.
+Use Specimen 0 as the main cat, not a generic cat. Specimen 0 is a short-haired bicolor cow-pattern cat: warm white body, irregular dark brown/black-gray patches on the crown/ears, one dark patch on the back, mostly dark tail. Very large yellow irises with narrow vertical black slit pupils are the soul of the character. The eyes feel blank, hyper-aware, deadpan, and funny, like the cat has emptied its brain but sees everything. Small pale pink nose, hidden mouth unless licking paw, optional tiny pink tongue, short straight black whiskers. Triangular ears with soft pink inner ears. Body is loose and slightly awkward, not a round chibi mascot. The tail must naturally grow from the rear of the cat's body as one continuous connected shape; it must not float, split into pieces, become an independent arrow, or detach from the body.
 
 Theme:
 {正文配图主题}
@@ -33,7 +33,7 @@ Color use:
 Warm white body. Dark brown, black-gray, or olive-brown patches on crown, ears, back, and tail. Yellow eyes with thin vertical black slit pupils. Soft pale pink for inner ears, tiny nose, tongue, or optional paw pads. Muted earth tones only. Use soft orange/blue/red only for tiny article annotations if necessary.
 
 Constraints:
-One image explains only one core structure. Keep the main subject around 35%-60% of the canvas. Preserve generous blank space. Use at most 3-5 short Chinese labels, each 2-6 characters. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, dense infographic, UI screenshot, character reference sheet, cross-section view, stamp catalogue, or English specification poster. Do not generate random cat breeds. Do not make a round chibi/kawaii mascot. Do not copy reference poses; preserve the character DNA: bicolor patches, yellow slit eyes, thick hand-drawn outline, loose awkward posture, subtle flat-fill texture.
+One image explains only one core structure. Keep the main subject around 35%-60% of the canvas. Preserve generous blank space. Use at most 3-5 short Chinese labels, each 2-6 characters. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, dense infographic, UI screenshot, character reference sheet, cross-section view, stamp catalogue, or English specification poster. Do not generate random cat breeds. Do not make a round chibi/kawaii mascot. Do not copy reference poses; preserve the character DNA: bicolor patches, yellow slit eyes, thick hand-drawn outline, loose awkward posture, subtle flat-fill texture. Keep the cat's tail anatomically attached to the rear body in a single continuous curve.
 ```
 
 ## 图像编辑提示
@@ -41,7 +41,7 @@ One image explains only one core structure. Keep the main subject around 35%-60%
 修正为 Specimen 0：
 
 ```text
-Edit the provided image while preserving the same composition and meaning. Replace the cat with Specimen 0: warm white short-haired bicolor cat, irregular dark crown/ear patch, one dark back patch, mostly dark tail, very large yellow eyes with thin vertical black slit pupils, tiny pale pink nose, short straight whiskers, triangular ears with soft pink inner ears, thick uneven hand-drawn black outline, muted flat colors with subtle colored-pencil grain. Avoid round chibi mascot proportions. Preserve background, layout, labels, and aspect ratio.
+Edit the provided image while preserving the same composition and meaning. Replace the cat with Specimen 0: warm white short-haired bicolor cat, irregular dark crown/ear patch, one dark back patch, mostly dark tail, very large yellow eyes with thin vertical black slit pupils, tiny pale pink nose, short straight whiskers, triangular ears with soft pink inner ears, thick uneven hand-drawn black outline, muted flat colors with subtle colored-pencil grain. The tail must be one continuous connected tail growing from the rear body, not detached or split. Avoid round chibi mascot proportions. Preserve background, layout, labels, and aspect ratio.
 ```
 
 增强猫猫参与感：

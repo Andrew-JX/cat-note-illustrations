@@ -7,6 +7,7 @@
 - 默认主角是 Specimen 0，不是随机猫。
 - Specimen 0 承担核心动作，不只是装饰。
 - 猫有米白/暖白身体、深色头顶/耳朵斑块、深色后背斑块、深色尾巴。
+- 尾巴必须从身体后侧自然长出，是一条连续连接的尾巴。
 - 眼睛是明黄色/暖黄色大眼，瞳孔是黑色细竖线。
 - 表情有“清空大脑但看透一切”的呆滞幽默感。
 - 线条是中等偏粗、不完全均匀的黑色手绘墨线，有贴纸剪纸感。
@@ -21,6 +22,7 @@
 - 生成的是泛猫、橘猫、纯白猫、黑猫、长毛猫，而不是 Specimen 0。
 - 猫眼是黑豆眼、圆点眼、水汪汪大眼、高光萌眼，或没有黄色虹膜。
 - 瞳孔不是细长竖线。
+- 尾巴断开、漂浮、分成两段、接错位置、变成独立箭头或独立路径。
 - 猫咪变圆滚滚 Q 版、kawaii 吉祥物、大头娃娃或玩具猫。
 - 画面像 PPT、课程课件、正式流程图、复杂信息图。
 - 画面变成 catalog/specification sheet、解剖图、邮票格子、英文说明海报。
@@ -35,6 +37,7 @@
 - 不像主角：强制改为 Specimen 0，强调 warm white body、dark crown/back/tail patches、large yellow eyes、thin vertical slit pupils。
 - 太圆太萌：去掉 chibi、kawaii、big round head，强调 loose awkward body、short-haired bicolor cat、not mascot。
 - 眼睛不对：重生成或局部编辑，明确 yellow irises + narrow vertical black slit pupils。
+- 尾巴不对：重生成或局部编辑，明确 tail naturally attached to rear body, one continuous connected shape。
 - 太像信息图：去掉标题、边框、整齐网格和过多箭头，改成猫正在处理物件的白底场景。
 - 太普通：让猫用爪子、尾巴、嘴巴或身体承担结构动作。
 - 太复杂：删节点，只保留一个动作、一个主物件和 1-4 个短标注。
