@@ -100,7 +100,7 @@ Cat Note Illustrations 是一个 Codex Skill，用来指导 AI Agent 为中文�
 克隆仓库：
 
 ```bash
-git clone https://github.com/YOUR_NAME/cat-note-illustrations.git
+git clone https://github.com/Andrew-JX/cat-note-illustrations.git
 cd cat-note-illustrations
 ```
 
